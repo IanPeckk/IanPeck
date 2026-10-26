@@ -19,17 +19,10 @@ Estudiante de Ingeniería de Sistemas e Información Gerencial, enfocado en el a
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-181717?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=white)
 
-**Tecnologías y Herramientas**
-
-**Lenguajes de Programación:**
-- Java, Python, C#, HTML/CSS
-
-**Análisis de Datos y Herramientas:**
-- Power BI, Microsoft Excel, Git y GitHub, AutoCAD, Visual Studio, Figma
 
 ---
 
-###  Proyectos Destacados
+###  📊 Proyectos Destacados
 
 - **[🥋 Dojo Pay Control](https://github.com/marcosjoser155-star/DojoPayControl):** El Sistema de Control de Mensualidades – Dojo Karate App facilita la gestión de estudiantes, pagos y estados de un dojo de karate. Fue desarrollado en C# con Windows Forms en Visual Studio, utilizando SQL Server para almacenar la información, y Figma y UML para el diseño de interfaces y modelado del sistema.
 
