@@ -8,8 +8,8 @@ Estudiante de Ingeniería de Sistemas e Información Gerencial, enfocado en el a
 ![Java](https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-181717?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-181717?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-181717?style=for-the-badge&logo=css3&logoColor=white)
 
 **Análisis de Datos y Herramientas:**
 ![Power BI](https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi&logoColor=white)
