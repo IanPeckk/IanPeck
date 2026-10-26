@@ -3,7 +3,7 @@
 ¡Hola! Soy Ian Peck 👋
 
 <p align="justify">
-Soy estudiante de Ingeniería de Sistemas e Información Gerencial en la Universidad Tecnológica de Panamá, enfocado en el análisis de datos y la resolución de problemas mediante código, integrando la lógica del desarrollo de software con la analítica de datos para construir soluciones tecnológicas eficientes, escalables y orientadas a la toma de decisiones estratégicas. Cuento con experiencia en programación orientada a objetos, Desarrollo y Arquitectura de Software (Java, C#, Python), el Análisis de Datos y Business Intelligence (Power BI, SQL, Excel), la Gestión de Proyectos de TI con metodologías ágiles (Git/GitHub, Trello, UML) 
+Soy estudiante de Ingeniería de Sistemas e Información Gerencial en la Universidad Tecnológica de Panamá, enfocado en el análisis de datos y la resolución de problemas mediante código, integrando la lógica del desarrollo de software con la analítica de datos para construir soluciones tecnológicas eficientes, escalables y orientadas a la toma de decisiones estratégicas. Cuento con experiencia en programación orientada a objetos, Desarrollo y Arquitectura de Software (Java, C#, Python), el Análisis de Datos y Business Intelligence (Power BI, SQL, Excel), la Gestión de Proyectos de TI con metodologías ágiles (Git/GitHub, Trello, UML).
 </p>
 
 
