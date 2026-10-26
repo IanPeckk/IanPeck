@@ -47,7 +47,7 @@ Estudiante de Ingeniería de Sistemas e Información Gerencial, enfocado en el a
 </p>
 
 * **Menú Principal:** Navegación fluida hacia el juego, instrucciones y salida.
-* **Lógica de Juego:** Control de turnos en tiempo real, validación de fichas en tablero 7x6 y alertas visuales de ganador.
+* **Lógica de Juego:** Control de turnos en tiempo real, validación de fichas en tablero 6x7 y alertas visuales de ganador.
 
 ---
 
